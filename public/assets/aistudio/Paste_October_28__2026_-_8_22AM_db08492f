@@ -1,0 +1,1074 @@
+# PROJECT: DIBIKA P — PERSONAL PORTFOLIO WEBSITE
+
+Act as a senior UI/UX designer, frontend engineer, full-stack developer, accessibility specialist, and technical recruiter.
+
+Build a complete, polished, professional, responsive personal portfolio website for Dibika P, an Electronics and Communication Engineering student from Chennai, Tamil Nadu, India.
+
+This must be a real, working website, not a static mockup, wireframe, or simple landing page.
+
+The website must showcase my engineering education, technical skills, projects, internships, professional experiences, leadership, achievements, learning journey, and career interests.
+
+The portfolio should help me:
+- Apply for software engineering internships and placements.
+- Showcase my engineering and programming projects.
+- Demonstrate my leadership and communication skills.
+- Present my Google Student Ambassador experience.
+- Explore opportunities in software engineering, AI/ML, embedded systems, electronics, and semiconductor technologies.
+- Connect with recruiters, engineering professionals, mentors, and fellow developers.
+- Continuously update my portfolio as I gain new skills and experience.
+
+Create an exceptional portfolio that looks like it was designed by a professional product design team.
+
+==================================================
+1. PERSONAL INFORMATION
+==================================================
+
+Full name: Dibika P
+
+Professional headline:
+Electronics & Communication Engineering Student | Software Development | AI/ML | Embedded Systems | Technology Community Leadership
+
+Education:
+Bachelor of Engineering in Electronics and Communication Engineering
+
+College:
+Panimalar Engineering College
+
+Location:
+Chennai, Tamil Nadu, India
+
+Expected graduation:
+2028
+
+Current academic stage:
+Pre-final-year engineering student. Ensure the wording is appropriate for the academic timeline and can be edited later.
+
+CGPA:
+8.35/10
+
+LinkedIn:
+https://www.linkedin.com/in/dibika-p-7aaa32323/
+
+GitHub:
+https://github.com/Dibika007
+
+Do not invent an email address, telephone number, residential address, portfolio URL, or additional social media account.
+
+Do not invent a photograph of me or use a random person's photograph as my profile picture. Provide a polished profile-image upload option and a professional placeholder until I upload my real photo.
+
+All profile information must be editable.
+
+==================================================
+2. BRAND IDENTITY AND DESIGN DIRECTION
+==================================================
+
+Portfolio brand:
+DIBIKA P
+
+Suggested tagline:
+"Engineering Ideas. Building Solutions. Growing Every Day."
+
+Alternative supporting message:
+"Curious by nature. An engineer in progress. A builder by choice."
+
+Create a unique personal brand that feels technical, intelligent, ambitious, modern, and approachable.
+
+DESIGN STYLE:
+
+- Modern engineering portfolio.
+- Premium editorial typography.
+- Beautifully structured layouts.
+- Subtle glassmorphism where appropriate.
+- Soft gradients and sophisticated colors.
+- Fine circuit-board patterns and engineering-inspired details.
+- Subtle animations and micro-interactions.
+- Clean, spacious layouts.
+- Excellent typography hierarchy.
+- Elegant project cards.
+- Professional icons.
+- Smooth page transitions and scrolling.
+- High-quality mobile layouts.
+
+COLOR PALETTE:
+
+Use a deep midnight navy background with indigo, violet, electric blue, and cyan accents.
+
+Suggested colors:
+- Midnight navy: #0B1020
+- Deep background: #10172A
+- Electric blue: #4F8CFF
+- Violet: #8B5CF6
+- Cyan: #36D9E8
+- Primary text: #F8FAFC
+- Secondary text: #A7B2C7
+
+Use gradients sparingly. Keep the website visually sophisticated rather than excessively neon.
+
+Create a light theme as an optional alternative.
+
+Include a functional light/dark theme toggle that remembers the user's selection.
+
+Avoid:
+- Generic templates.
+- Excessive glowing effects.
+- Too many floating shapes.
+- Oversized empty spaces.
+- Repetitive rounded cards everywhere.
+- Excessive animations.
+- Fake statistics.
+- Fake endorsements.
+- Fake company logos.
+- Fake testimonials.
+- Fake project metrics.
+- Fake certification badges.
+
+Use lucide-react icons or an equivalent maintained icon library.
+
+Use CSS animations and subtle motion only where they improve the experience.
+
+Respect reduced-motion preferences.
+
+==================================================
+3. WEBSITE ARCHITECTURE
+==================================================
+
+Build a complete single-page portfolio with clearly defined sections and functional navigation.
+
+Primary navigation:
+
+1. Home
+2. About
+3. Education
+4. Skills
+5. Experience
+6. Projects
+7. Achievements
+8. Certifications
+9. Resume
+10. Contact
+
+The navigation should:
+- Scroll to the appropriate section.
+- Highlight the currently active section.
+- Work on mobile devices.
+- Collapse into a mobile menu on small screens.
+- Remain visually accessible.
+- Provide a clear call to action.
+
+Include a persistent "Let's Connect" button.
+
+Include a back-to-top button when appropriate.
+
+The initial viewport must immediately communicate who I am, what I study, what I build, and where visitors can explore my work.
+
+==================================================
+4. HERO SECTION
+==================================================
+
+Design an impressive, recruiter-friendly opening section.
+
+Display a small eyebrow label:
+"ELECTRONICS & COMMUNICATION ENGINEERING"
+
+Main heading:
+
+"Hi, I'm Dibika P."
+
+Follow with an animated or smoothly transitioning professional headline:
+
+"Engineering student."
+"Software developer in progress."
+"Exploring AI and machine learning."
+"Building across software and hardware."
+"Technology community leader."
+
+Ensure that the animation remains readable, accessible, and does not cause layout shifts.
+
+Supporting paragraph:
+
+"I'm an Electronics and Communication Engineering student at Panimalar Engineering College, interested in software development, artificial intelligence, embedded systems, and technology-driven problem solving. I enjoy learning new technologies, building practical projects, and contributing to communities that help students grow."
+
+Primary CTA:
+"Explore My Work"
+
+Secondary CTA:
+"Download Resume"
+
+Third CTA:
+"Connect on LinkedIn"
+
+Show GitHub and LinkedIn icons with working external links.
+
+Display the location:
+Chennai, Tamil Nadu, India.
+
+Display the education and graduation details:
+B.E. Electronics and Communication Engineering | Expected 2028
+
+Display CGPA:
+8.35/10
+
+Treat the CGPA as a small, optional information badge rather than a fabricated achievement metric.
+
+Add a subtle animated engineering-inspired visual on the right side:
+- Abstract circuit traces.
+- Connected nodes.
+- Small software and hardware symbols.
+- A minimal 3D-inspired geometric object or technical illustration.
+
+Do not use a generic stock portrait.
+
+Include a small scroll indicator.
+
+==================================================
+5. ABOUT ME
+==================================================
+
+Section title:
+"A little about me"
+
+Write an authentic, professional biography using the following information:
+
+"I'm an Electronics and Communication Engineering student who enjoys exploring the intersection of software, electronics, and emerging technologies. My interests include Java programming, problem solving, AI/ML, embedded systems, and semiconductor technologies.
+
+Beyond academics, I've explored internships, sustainability projects, open-source contribution, student leadership, and technology community initiatives. These experiences have helped me develop communication, collaboration, presentation, and organizational skills alongside my technical learning.
+
+I'm continuously working to strengthen my fundamentals, build meaningful projects, and prepare for internship and placement opportunities. My goal is to turn what I learn into practical solutions while remaining open to opportunities across software and hardware-oriented engineering."
+
+Include three visual interest areas:
+
+01 — Software & Problem Solving
+Java, programming fundamentals, web development, and algorithmic thinking.
+
+02 — AI & Intelligent Systems
+Machine learning exposure, data analysis, and intelligent applications.
+
+03 — Electronics & Embedded Innovation
+Embedded systems, IoT, communication systems, and VLSI exploration.
+
+Make it clear that these are areas of interest and development, not claims of advanced professional expertise.
+
+Add a small "Currently exploring" component.
+
+Initial interests:
+- Core Java and object-oriented programming.
+- Data structures and algorithms.
+- Web application development.
+- AI/ML applications.
+- Embedded systems and VLSI.
+
+All content must be editable.
+
+==================================================
+6. EDUCATION
+==================================================
+
+Display education in a polished timeline or academic profile card.
+
+Degree:
+Bachelor of Engineering — Electronics and Communication Engineering
+
+Institution:
+Panimalar Engineering College
+
+Location:
+Chennai, Tamil Nadu, India
+
+Expected graduation:
+2028
+
+CGPA:
+8.35/10
+
+Display academic status as:
+"Currently pursuing"
+
+Add a separate academic interests area:
+- Programming and software engineering.
+- Digital electronics.
+- Communication systems.
+- Embedded systems.
+- VLSI and semiconductor technology.
+- Artificial intelligence and machine learning.
+
+Do not invent subject grades, university ranks, academic awards, or distinctions.
+
+Do not invent the exact degree start date.
+
+Allow me to edit my degree, institution, academic dates, CGPA, relevant coursework, and academic achievements.
+
+==================================================
+7. TECHNICAL SKILLS
+==================================================
+
+Create an interactive skills section organized by category.
+
+CATEGORY A: PROGRAMMING
+
+- Java
+- Python
+- C++
+
+CATEGORY B: WEB DEVELOPMENT
+
+- HTML
+- CSS
+- Basic web development
+
+CATEGORY C: DATA AND PRODUCTIVITY
+
+- Tableau
+- Microsoft Excel
+
+CATEGORY D: DEVELOPMENT TOOLS
+
+- GitHub
+- Git and version-control workflows, where applicable
+
+CATEGORY E: EMERGING TECHNICAL INTERESTS
+
+- Artificial Intelligence and Machine Learning
+- Embedded Systems
+- Internet of Things
+- VLSI and Semiconductor Technology
+
+Clearly distinguish actual technical skills from learning interests.
+
+Use skill tags, category filters, and tasteful icons.
+
+Do not display invented skill percentages such as "Java — 95%" or "Python — 90%."
+
+Do not imply that I am an expert in technologies when my experience level has not been established.
+
+Allow me to edit each skill and categorize it as:
+- Learning
+- Beginner
+- Intermediate
+- Advanced
+
+These labels should be assigned manually and must not be automatically inferred.
+
+Add an editable "Currently Learning" subsection.
+
+==================================================
+8. EXPERIENCE AND LEADERSHIP
+==================================================
+
+Create a professional experience timeline with organization, role, dates, description, and relevant skills.
+
+Use the following known experiences.
+
+EXPERIENCE 1
+
+Organization: Google / Google Student Ambassador program
+
+Preferred title:
+Google Student Ambassador | Gemini Campus Ambassador 2026
+
+Start:
+May 2026
+
+Status:
+Present, subject to manual editing.
+
+Description:
+"Participating in a student ambassador initiative focused on technology awareness, student engagement, and the Google ecosystem. Interested in helping peers discover useful AI tools and learning opportunities."
+
+Use the title and organization wording carefully. Do not imply that I am a Google employee or a software engineer at Google.
+
+EXPERIENCE 2
+
+Organization: Uptoskills
+
+Role:
+HR Intern / Team Lead
+
+Dates:
+December 2025 – March 2026
+
+Description:
+"Developed professional experience in HR-related activities, team coordination, communication, and collaborative work."
+
+Do not invent recruitment numbers, employee counts, or performance metrics.
+
+EXPERIENCE 3
+
+Organization: 1M1B
+
+Role:
+Green Sustainability Intern
+
+Dates:
+September 2025 – January 2026
+
+Description:
+"Participated in sustainability-related work involving data visualization and digital project activities. Relevant tools included Tableau, Excel, and website development."
+
+Do not invent the name of an unconfirmed project or claim environmental impact numbers.
+
+EXPERIENCE 4
+
+Organization:
+GirlScript Summer of Code (GSSoC)
+
+Role:
+Open-Source Contributor
+
+Dates:
+July 2025 – August 2025
+
+Description:
+"Explored collaborative open-source development and contribution workflows."
+
+Do not invent merged pull requests, repository names, issue counts, or contribution statistics.
+
+EXPERIENCE 5
+
+Organization:
+Comfort Design
+
+Role:
+MEP/HVAC Design Trainee
+
+Description:
+"Explored mechanical, electrical, and plumbing design concepts with exposure to HVAC-related work."
+
+Do not invent the dates, project names, software proficiency, or engineering responsibilities beyond the known information.
+
+EXPERIENCE 6
+
+Organization:
+CBSOT Summer Internship 2026
+
+Status:
+Selected participant.
+
+Domain:
+AI/ML/Data Science.
+
+Description:
+"Selected for a summer internship program in the AI, machine learning, and data science domain."
+
+Do not invent a completion date, employer relationship, certificate, or project outcome.
+
+STUDENT LEADERSHIP:
+
+Include a separate leadership and campus engagement subsection.
+
+Known roles and activities:
+- UCI/YUCI ECE club coordinator.
+- ECE club KiCad PCB teaching activity associated with AICTE.
+- Class/block leader.
+- Parade controller.
+- Student mentor.
+- Google Student Ambassador / Gemini Campus Ambassador 2026.
+
+Present these roles professionally.
+
+Do not invent dates, awards, attendance numbers, or organizational responsibilities that have not been provided.
+
+Allow each experience and leadership entry to be edited.
+
+==================================================
+9. FEATURED PROJECTS
+==================================================
+
+Build a beautiful project showcase with project images or diagrams, concise descriptions, technology tags, repository links, optional live demos, and a "View Details" interaction.
+
+Do not invent live deployment URLs.
+
+Do not claim that a repository exists unless its URL has been confirmed.
+
+PROJECT 1: NEXORA — Engineering Learning and Career Platform
+
+Description:
+"NEXORA is an engineering learning and career platform concept designed to bring learning resources, student progress, technical projects, career guidance, and AI-assisted learning into one experience."
+
+Potential areas:
+- Student dashboard.
+- Learning tracks.
+- Progress tracking.
+- Profile and settings.
+- Career preparation.
+- AI-assisted learning.
+- Software and engineering learning resources.
+
+Technology stack being developed:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Java
+- Spring Boot
+- PostgreSQL
+- Firebase Authentication
+
+Status:
+"In development"
+
+Important:
+Describe these technologies as the project's intended or current stack, not as proof that every component is complete and production-ready.
+
+Do not invent users, revenue, deployment statistics, or completed integrations.
+
+Repository and demo:
+Make both configurable. Do not assume that the NEXORA project is already publicly available on GitHub.
+
+PROJECT 2: FLOOD GUARD AI
+
+Description:
+"An AI/ML-oriented flood-risk prediction project exploring machine learning models and their performance on a flood-related dataset."
+
+Known model evaluation results:
+- Random Forest: Accuracy 78.38%; F1 score 49.15%.
+- Extra Trees: Accuracy 79.77%; F1 score 37.24%.
+- Gradient Boosting: Accuracy 80.77%; F1 score 41.34%.
+- Logistic Regression: Accuracy 71.95%; F1 score 51.55%.
+
+Present these as recorded experimental results, not independently verified production performance.
+
+Clearly explain that accuracy and F1 score measure different aspects of model performance.
+
+Do not claim that the model has been deployed for real-world flood warnings.
+
+Allow me to add the dataset source, model details, visualizations, repository, limitations, and future improvements.
+
+PROJECT 3: SUSTAINABILITY DATA AND DIGITAL PROJECT
+
+Description:
+"A sustainability-related internship project involving exposure to data visualization, Tableau, Excel, and website development."
+
+Organization:
+1M1B.
+
+Status:
+"Internship-related project; detailed title and deliverables to be added."
+
+Do not fabricate a specific project title, environmental outcome, or website URL.
+
+PROJECT 4: ENGINEERING AND PCB LEARNING
+
+Description:
+"An engineering learning activity focused on KiCad and PCB design concepts through an ECE club teaching initiative."
+
+Include:
+- PCB design learning.
+- Circuit layout concepts.
+- Electronics learning.
+- KiCad exposure.
+
+Clearly label this as a learning or teaching activity rather than a completed commercial hardware product.
+
+PROJECT CARD REQUIREMENTS:
+
+Every project should support:
+- Project title.
+- Short description.
+- Full description.
+- Category.
+- Technology stack.
+- Current status.
+- Project thumbnail.
+- Optional screenshots.
+- Optional architecture diagram.
+- Challenges.
+- Learning outcomes.
+- GitHub repository URL.
+- Live demo URL.
+- Project documentation.
+- Start and completion dates.
+
+Hide optional buttons when their URLs are not available.
+
+Use placeholder content only when clearly marked for editing.
+
+==================================================
+10. ACHIEVEMENTS AND RECOGNITION
+==================================================
+
+Create a visual achievement section.
+
+Include these known achievements and milestones:
+
+1. Google Student Ambassador 2026
+   - Associated with the Gemini Campus Ambassador initiative.
+   - Known recognition: Bronze — The Explorer.
+   - Display only as a program milestone, not as an academic award.
+
+2. GeeksforGeeks Campus Mantri
+   - Known reported rank: 249 out of 1,643.
+   - Reported points: 1,500.
+   - Reported clicks: 83.
+   - Reported registrations: 10.
+   - Welcome Kit shortlist status.
+
+   Label these as previously recorded program statistics and make them editable.
+   Do not imply that these statistics are live or independently verified.
+
+3. ECE Club Coordination
+   - Student leadership and engineering community involvement.
+
+4. PCB Design Teaching Activity
+   - Exposure to teaching KiCad and PCB design concepts.
+
+5. Open-Source Contribution
+   - GSSoC 2025 participation.
+
+6. AI/ML/Data Science Internship Selection
+   - CBSOT Summer Internship 2026 selection.
+
+Allow achievements to include:
+- Title.
+- Issuing organization.
+- Description.
+- Date.
+- Supporting image.
+- Certificate.
+- Verification URL.
+- Achievement category.
+
+Do not create fake certificates, award images, or verification links.
+
+If a certificate or verification link has not been provided, display a neutral "Details to be added" state.
+
+==================================================
+11. CERTIFICATIONS AND LEARNING
+==================================================
+
+Create a certification section with filters.
+
+Possible categories:
+- Programming.
+- Artificial Intelligence and Machine Learning.
+- Electronics and Embedded Systems.
+- Cloud and Developer Tools.
+- Sustainability.
+- Leadership and Professional Development.
+
+Known learning milestone:
+IBM Z Xplore Concepts Badge.
+
+Do not invent an issue date or verification URL.
+
+Do not automatically turn internship participation into a certification.
+
+Provide a working interface for adding certification records:
+- Certificate name.
+- Issuer.
+- Issue date.
+- Credential ID.
+- Credential URL.
+- Certificate image or PDF.
+- Skills gained.
+
+Display only verified or user-entered credentials.
+
+==================================================
+12. RESUME SECTION
+==================================================
+
+Create a dedicated resume section.
+
+Heading:
+"Interested in my journey?"
+
+Supporting text:
+"Explore my education, technical skills, project work, and experience."
+
+Buttons:
+- Download Resume.
+- View Resume.
+- Connect on LinkedIn.
+- Explore GitHub.
+
+Implement a working resume upload feature or configure a resume PDF asset that I can replace.
+
+Do not generate a fake resume document.
+
+If no resume file is available:
+- Display "Resume coming soon."
+- Allow the owner to upload a PDF.
+- Hide or disable download buttons until a valid file is available.
+
+Validate uploaded files and file sizes.
+
+If a resume is uploaded, provide an accessible PDF preview where possible.
+
+Ensure that the downloaded file has a professional filename such as:
+Dibika_P_Resume.pdf
+
+Make updating the resume straightforward.
+
+==================================================
+13. CONTACT SECTION
+==================================================
+
+Create an elegant contact section.
+
+Heading:
+"Let's build something meaningful."
+
+Supporting text:
+"I'm always interested in learning opportunities, technical collaborations, internships, and conversations about software, AI, and engineering."
+
+Include:
+- LinkedIn profile.
+- GitHub profile.
+- Optional email address.
+- Optional phone number.
+
+LinkedIn URL:
+https://www.linkedin.com/in/dibika-p-7aaa32323/
+
+GitHub URL:
+https://github.com/Dibika007
+
+Do not invent my email or phone number.
+
+CONTACT FORM FIELDS:
+
+- Name.
+- Email.
+- Subject.
+- Message.
+
+The contact form must have:
+- Client-side validation.
+- Accessible labels.
+- Loading state.
+- Success state.
+- Error state.
+- Spam protection appropriate to the implementation.
+
+Important:
+Do not create a fake submission-success message.
+
+If no email service or backend is configured, clearly explain that the form is not connected yet, or implement a genuine mailto-based fallback.
+
+If a backend contact form is implemented, validate input on the server, add appropriate rate limiting and spam protection, and keep any credentials in server-side environment variables.
+
+Do not expose private credentials.
+
+==================================================
+14. INTERACTIVE FEATURES
+==================================================
+
+Implement the following features where appropriate:
+
+A. DARK/LIGHT MODE
+- Functional toggle.
+- Remember the selected theme.
+- Respect system preferences on the first visit.
+
+B. PROJECT FILTERING
+Allow filtering by:
+- All.
+- Software Development.
+- AI/ML.
+- Electronics.
+- Sustainability.
+- Learning Activities.
+
+C. EXPERIENCE TIMELINE
+Display experiences chronologically with role, organization, dates, and descriptions.
+
+D. SKILLS INTERACTION
+Allow visitors to filter skill categories.
+
+E. PROJECT DETAIL MODALS
+Clicking a project should open a detailed view with the project description, technologies, learning outcomes, screenshots, and available links.
+
+The modal must work on keyboard and mobile devices.
+
+F. COPY PROFILE LINKS
+Provide a convenient option to copy my GitHub or LinkedIn URL.
+
+G. SCROLL ANIMATIONS
+Use subtle reveal animations and smooth scrolling.
+
+H. BACK TO TOP
+Provide a functional back-to-top button.
+
+I. MOBILE NAVIGATION
+Ensure the navigation works correctly on touchscreens.
+
+J. EDITABLE CONTENT
+Provide an owner-friendly way to update portfolio content without manually redesigning the website.
+
+K. RESUME UPDATES
+Allow the resume asset to be replaced.
+
+L. SOCIAL LINKS
+All social links must open the correct destination.
+
+M. RESPONSIVE PROJECT GALLERY
+Support images of different aspect ratios without breaking the layout.
+
+N. EMPTY STATES
+If a section has no content, display a polished message instead of broken images, empty cards, or fake data.
+
+==================================================
+15. OWNER EDITING AND CONTENT MANAGEMENT
+==================================================
+
+I want to update my portfolio as my career progresses.
+
+Design the application so the content can be managed without rewriting entire components.
+
+For the first version, implement a structured content model and an owner-friendly editing workflow.
+
+Editable content must include:
+- Name.
+- Headline.
+- Biography.
+- Profile image.
+- Location.
+- Education.
+- CGPA.
+- Skills.
+- Experience.
+- Leadership roles.
+- Projects.
+- Project screenshots.
+- Achievements.
+- Certificates.
+- Resume.
+- Social links.
+- Contact information.
+
+Use a clean separation between portfolio content, reusable components, and styling.
+
+For a simple first version, a typed content configuration file is acceptable.
+
+If implementing an authenticated admin dashboard, use Firebase Authentication with Google sign-in and secure owner-only access.
+
+Do not add an insecure password-based admin panel with hardcoded credentials.
+
+If persistent editing is implemented, save changes to an appropriate database or storage service and confirm that they persist after refreshing the page.
+
+Do not pretend that browser-local changes are securely saved to a server.
+
+Any admin editing interface must be hidden from ordinary public visitors and protected on the backend as well as in the UI.
+
+Do not require public visitors to create accounts just to view the portfolio.
+
+==================================================
+16. TECHNOLOGY REQUIREMENTS
+==================================================
+
+Build the application using a modern, maintainable stack compatible with Google AI Studio.
+
+Preferred frontend:
+- React.
+- TypeScript.
+- Vite or the appropriate supported React setup.
+- Tailwind CSS or well-structured CSS.
+- Lucide React icons.
+
+Use the standard package and configuration structure supported by the current AI Studio environment.
+
+Use reusable components such as:
+- Navbar.
+- HeroSection.
+- AboutSection.
+- EducationSection.
+- SkillsSection.
+- ExperienceSection.
+- ProjectsSection.
+- AchievementsSection.
+- CertificationsSection.
+- ResumeSection.
+- ContactSection.
+- Footer.
+- ThemeToggle.
+- ProjectModal.
+
+Keep code modular and readable.
+
+Use semantic HTML.
+
+Avoid unnecessary dependencies.
+
+Use appropriate React state management and reusable hooks.
+
+If a backend is needed, use the supported server-side runtime.
+
+If Firebase is needed:
+- Use Firebase Authentication only when required.
+- Use Firestore for persistent content when appropriate.
+- Use Firebase Storage for uploaded assets when appropriate.
+- Use secure Firebase rules.
+- Protect administrative functionality.
+- Keep private keys out of client-side code.
+
+Do not add an unnecessary backend simply to make the project look advanced.
+
+The public portfolio should work without authentication.
+
+==================================================
+17. PERFORMANCE, SECURITY, AND ACCESSIBILITY
+==================================================
+
+Ensure the following:
+
+- Responsive layout across mobile, tablet, laptop, and desktop.
+- Good performance on average internet connections.
+- Semantic HTML.
+- Keyboard-accessible navigation.
+- Visible focus indicators.
+- Sufficient color contrast.
+- Accessible button names.
+- Useful image alt text.
+- Reduced-motion support.
+- Appropriate form validation.
+- Secure handling of environment variables.
+- No hardcoded API secrets.
+- No unnecessary personal information.
+- No broken external links.
+- No nonfunctional buttons.
+- No console errors.
+- No TypeScript errors.
+- No missing React keys.
+- No broken routes.
+- No horizontal overflow on mobile.
+
+Optimize images and use lazy loading for images below the initial viewport.
+
+Add appropriate page metadata:
+- Title: Dibika P | ECE Student & Developer Portfolio
+- Description: Portfolio of Dibika P, an Electronics and Communication Engineering student exploring software development, AI/ML, embedded systems, and engineering innovation.
+- Appropriate Open Graph metadata.
+- A favicon with a simple DP monogram.
+
+Do not expose private information.
+
+==================================================
+18. SEARCH ENGINE AND SOCIAL SHARING
+==================================================
+
+Implement:
+- Meaningful page title.
+- Meta description.
+- Open Graph title and description.
+- Social preview image placeholder.
+- Canonical URL configuration that can be updated after deployment.
+
+Do not invent a production domain.
+
+Use a configurable canonical URL and omit it until the actual public domain is known.
+
+==================================================
+19. CONTENT ACCURACY RULES
+==================================================
+
+These rules are mandatory.
+
+1. Use the profile information supplied in this prompt.
+2. Do not invent my photograph, email, phone number, certificates, awards, employers, project repositories, or deployed applications.
+3. Do not claim that I am an employee of Google.
+4. Distinguish internships, internship selections, ambassador roles, and employment accurately.
+5. Do not invent dates when they are not supplied.
+6. Do not claim that unfinished projects are production-ready.
+7. Do not generate fake testimonials or recruiter endorsements.
+8. Do not invent coding streaks, GitHub statistics, website visitors, or project users.
+9. Do not fabricate certificate verification URLs.
+10. Do not invent live project demos.
+11. Keep my real LinkedIn and GitHub links unchanged.
+12. Clearly mark optional information that I must fill in later.
+13. Use editable content structures so I can correct any information.
+14. Never replace real project details with unrelated generic projects.
+
+If information is missing, build the UI so I can add it later instead of inventing it.
+
+==================================================
+20. VISUAL QUALITY EXPECTATIONS
+==================================================
+
+The final result should look like a premium personal portfolio belonging to an ambitious engineering student with interests in software, AI, electronics, and leadership.
+
+Prioritize:
+- An exceptional hero section.
+- Excellent typography.
+- A memorable visual identity.
+- Strong project presentation.
+- A clean experience timeline.
+- Clear professional achievements.
+- Accessible navigation.
+- Fast loading.
+- A polished mobile experience.
+
+Make the site feel personal rather than like a generic developer template.
+
+Use engineering-inspired visual details, but do not make the website look like a college assignment or an electronics textbook.
+
+Create a visually balanced combination of software engineering, electronics, AI, and professional growth.
+
+==================================================
+21. DEVELOPMENT WORKFLOW
+==================================================
+
+Work systematically.
+
+STEP 1:
+Generate the complete website structure and initial visual design.
+
+STEP 2:
+Implement all portfolio sections using the supplied information.
+
+STEP 3:
+Implement responsive layouts and interactive navigation.
+
+STEP 4:
+Implement the theme toggle, project filters, project detail modals, social links, and resume handling.
+
+STEP 5:
+Implement editable content and any required persistence securely.
+
+STEP 6:
+Check the application for missing assets, broken buttons, invalid links, compilation errors, and responsive-layout issues.
+
+STEP 7:
+Run the application and inspect the actual preview.
+
+STEP 8:
+Fix discovered errors before considering the task complete.
+
+Do not stop after generating a static homepage.
+
+Do not leave essential features as unexplained pseudocode or TODO comments.
+
+If a feature requires configuration that cannot be completed automatically, provide clear instructions and a graceful fallback.
+
+Preserve working code when making improvements.
+
+==================================================
+22. FINAL DELIVERABLE
+==================================================
+
+Deliver a complete, functioning, responsive personal portfolio website for Dibika P.
+
+The finished application must include:
+- Professional homepage.
+- About section.
+- Education.
+- Technical skills.
+- Experience and leadership.
+- Featured projects.
+- Achievements.
+- Certifications.
+- Resume.
+- Contact.
+- GitHub and LinkedIn links.
+- Light/dark mode.
+- Responsive mobile navigation.
+- Functional project filters.
+- Project detail views.
+- Accessible interactions.
+- Editable content.
+- Accurate personal information.
+- Professional metadata.
+- No fake claims or broken buttons.
+
+Start building the application now.
+
+Prioritize a polished and fully functioning first version. If the complete implementation requires several iterations, finish the foundational application first and then improve the remaining features without breaking the existing work.
